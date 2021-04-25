@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HDF.Blog.WebApi", "HDF.Blog.WebApi\HDF.Blog.WebApi.csproj", "{AD326874-FF54-48B4-83C7-7D3BA287164C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{48E5B641-8980-4600-8ECA-07EB2FA9FF6A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.en.md = README.en.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDF.Blog.Model", "HDF.Blog.Model\HDF.Blog.Model.csproj", "{36DAFAD6-AA1D-449D-AC86-0017A9553F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD326874-FF54-48B4-83C7-7D3BA287164C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD326874-FF54-48B4-83C7-7D3BA287164C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD326874-FF54-48B4-83C7-7D3BA287164C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD326874-FF54-48B4-83C7-7D3BA287164C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DAFAD6-AA1D-449D-AC86-0017A9553F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DAFAD6-AA1D-449D-AC86-0017A9553F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DAFAD6-AA1D-449D-AC86-0017A9553F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DAFAD6-AA1D-449D-AC86-0017A9553F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53E04DE-8C9D-4546-B8A5-9499A899888A}
+	EndGlobalSection
+EndGlobal

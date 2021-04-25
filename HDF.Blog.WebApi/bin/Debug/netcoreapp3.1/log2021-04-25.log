@@ -1,0 +1,20 @@
+【记录时间：2021-04-25 12:08:43,480】【线程：1】【日志级别：WARN 】【类：Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository】
+Storing keys in a directory '/root/.aspnet/DataProtection-Keys' that may not be persisted outside of the container. Protected data will be unavailable when container is destroyed.
+【记录时间：2021-04-25 12:08:43,663】【线程：1】【日志级别：WARN 】【类：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager】
+No XML encryptor configured. Key {de688bb0-78c8-468b-9435-af6c0da1f769} may be persisted to storage in unencrypted form.
+【记录时间：2021-04-25 12:08:44,274】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: https://[::]:443
+【记录时间：2021-04-25 12:08:44,283】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: http://[::]:80
+【记录时间：2021-04-25 12:08:44,294】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Application started. Press Ctrl+C to shut down.
+【记录时间：2021-04-25 12:08:44,301】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Hosting environment: Development
+【记录时间：2021-04-25 12:08:44,314】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Content root path: /app
+【记录时间：2021-04-25 12:09:43,653】【线程：16】【日志级别：INFO 】【类：HDF.Blog.WebApi.Controllers.AuthorizationController】
+【登录用户-->Id:admin，Code:admin，Name:管理员】
+【记录时间：2021-04-25 12:09:45,953】【线程：16】【日志级别：INFO 】【类：HDF.Blog.WebApi.Controllers.AuthorizationController】
+【登录用户-->Id:admin，Code:admin，Name:管理员】
+【记录时间：2021-04-25 12:09:47,188】【线程：16】【日志级别：INFO 】【类：HDF.Blog.WebApi.Controllers.AuthorizationController】
+【登录用户-->Id:admin，Code:admin，Name:管理员】

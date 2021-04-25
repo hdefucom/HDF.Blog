@@ -1,0 +1,36 @@
+【记录时间：2021-04-25 17:33:37,279】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: https://localhost:5001
+【记录时间：2021-04-25 17:33:37,291】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: http://localhost:5000
+【记录时间：2021-04-25 17:33:37,295】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Application started. Press Ctrl+C to shut down.
+【记录时间：2021-04-25 17:33:37,298】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Hosting environment: Development
+【记录时间：2021-04-25 17:33:37,301】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Content root path: E:\项目\HDF.Blog\HDF.Blog.WebApi
+【记录时间：2021-04-25 17:33:58,363】【线程：9】【日志级别：INFO 】【类：HDF.Blog.WebApi.Controllers.AuthorizationController】
+【登录用户-->Id:admin，Code:admin，Name:管理员】
+【记录时间：2021-04-25 17:35:16,466】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: https://localhost:5001
+【记录时间：2021-04-25 17:35:16,476】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: http://localhost:5000
+【记录时间：2021-04-25 17:35:16,479】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Application started. Press Ctrl+C to shut down.
+【记录时间：2021-04-25 17:35:16,483】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Hosting environment: Development
+【记录时间：2021-04-25 17:35:16,485】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Content root path: E:\项目\HDF.Blog\HDF.Blog.WebApi
+【记录时间：2021-04-25 17:35:40,908】【线程：9】【日志级别：INFO 】【类：HDF.Blog.WebApi.Controllers.AuthorizationController】
+【登录用户-->Id:admin，Code:admin，Name:管理员】
+【记录时间：2021-04-25 17:36:05,033】【线程：7】【日志级别：INFO 】【类：HDF.Blog.WebApi.Controllers.AuthorizationController】
+【登录用户-->Id:admin，Code:admin，Name:管理员】
+【记录时间：2021-04-25 17:37:34,127】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: https://localhost:5001
+【记录时间：2021-04-25 17:37:34,138】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Now listening on: http://localhost:5000
+【记录时间：2021-04-25 17:37:34,141】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Application started. Press Ctrl+C to shut down.
+【记录时间：2021-04-25 17:37:34,143】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Hosting environment: Development
+【记录时间：2021-04-25 17:37:34,147】【线程：1】【日志级别：INFO 】【类：Microsoft.Hosting.Lifetime】
+Content root path: E:\项目\HDF.Blog\HDF.Blog.WebApi
