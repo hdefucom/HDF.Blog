@@ -35,3 +35,11 @@
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+1.  ApiVersionExtend api版本拓展
+2.  AuthenticationExtension 身份认证拓展
+3.  CorsExtension 跨域拓展
+4.  DbContextExtension ORM拓展
+5.  NewtonsoftJsonExtension Json拓展
+6.  SpaExtension SpaService拓展
+7.  SwaggerExtension Swagger拓展
