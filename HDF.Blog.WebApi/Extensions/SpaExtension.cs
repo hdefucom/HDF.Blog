@@ -30,7 +30,7 @@ namespace HDF.Blog.WebApi.Extensions
                 if (env.IsDevelopment())
                 {
                     //开发模式下代理到本地启动的Vue服务
-                    builder.UseProxyToSpaDevelopmentServer("http://localhost:9528");
+                    builder.UseProxyToSpaDevelopmentServer("http://localhost:3000");
                 }
             });
 
@@ -50,6 +50,7 @@ namespace HDF.Blog.WebApi.Extensions
             {
                 options.RootPath = config.RootPath;
             });
+
         }
 
 

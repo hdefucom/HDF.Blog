@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
+using System.Net;
 
 namespace HDF.Blog.WebApi
 {
@@ -61,6 +62,13 @@ namespace HDF.Blog.WebApi
             //添加SPA服务
             services.AddSpaService(settings.SpaConfig);
 
+
+            //services.AddHttpsRedirection(options =>
+            //{
+            //    options.RedirectStatusCode = (int)HttpStatusCode.TemporaryRedirect;
+            //    options.HttpsPort = 443;
+            //});
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -71,9 +79,10 @@ namespace HDF.Blog.WebApi
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseSwaggerMiddleware(provider);// 配置swagger中间件
-
+            //app.UseHsts();
             //app.UseHttpsRedirection(); // https重定向
+
+            app.UseSwaggerMiddleware(provider);// 配置swagger中间件
 
             app.UseAuthentication();//身份验证
 
