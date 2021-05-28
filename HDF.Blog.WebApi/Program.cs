@@ -28,6 +28,7 @@ namespace HDF.Blog.WebApi
 
                 //})
                 //.UseUrls("https://*:443")
+                
                 .UseUrls("http://*:80")
             );
     }
