@@ -1,8 +1,6 @@
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using System.Net;
 
 namespace HDF.Blog.WebApi
 {
@@ -27,8 +25,8 @@ namespace HDF.Blog.WebApi
                 //    });
 
                 //})
+
                 //.UseUrls("https://*:443")
-                
                 //.UseUrls("http://*:80")
             );
     }

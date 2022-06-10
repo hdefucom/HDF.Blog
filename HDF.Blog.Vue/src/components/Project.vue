@@ -22,7 +22,7 @@ export default {
   created() {
     this.$nextTick(() => {
       var s = document.createElement("script");
-      s.setAttribute("src", "https://gitee.com/hdefucom/HDF.Blog/widget_preview");
+      s.setAttribute("src", "https://gitee.com/hdefucom/HDF/widget_preview");
       s.setAttribute("async", true);
       s.setAttribute("defer", true);
       let p = document.getElementById("project");
